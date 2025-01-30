@@ -26,7 +26,7 @@ Example:
 To run any solution:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Pravinchoudhary09/leetcode.git
 2. open the specific day's folder : cd Day_X
 3.Compile the C++ file g++ solution.cpp -o solution
 4.g++ solution.cpp -o solution
